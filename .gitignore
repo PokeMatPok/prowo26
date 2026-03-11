@@ -1,0 +1,8 @@
+# cache
+__pycache__/
+
+# sample data
+*.mid
+
+#vscode config
+.vscode/
